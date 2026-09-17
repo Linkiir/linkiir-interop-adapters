@@ -1,0 +1,9 @@
+{
+  "format": "linkiir.catalog",
+  "format_version": 1,
+  "id": "lkintr",
+  "name": "Linkiir Interoperability Adapters",
+  "publisher": "Linkiir Inc",
+  "description": "Catalog of HL7 v2, C-CDA, IHE, HIE, public health and legacy engine migration adapters",
+  "min_grid_version": ""
+}
