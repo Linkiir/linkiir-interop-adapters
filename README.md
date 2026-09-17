@@ -77,5 +77,5 @@ For a question about a specific adapter, quote its node type id.
 
 Copyright © Linkiir Inc. All rights reserved.
 
-This source is published so Linkiir Grid customers can read, audit and run it. It is **not** open source. See [LICENSE](LICENSE) for the terms that apply.
+This source is published so Linkiir Grid customers can read, audit and run it. It is **not** open source, and no open-source licence is granted. Use of this content is governed by your agreement with Linkiir Inc covering Linkiir Grid. For licensing enquiries, contact Linkiir.
 
